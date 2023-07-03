@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)) no-repeat center/cover;
+    border-style: solid;
+    border-color: rgb(138, 160, 95);
+    padding: 100px;
+    box-shadow: h-offset v-offset blur spread color inset ; 
+    box-shadow: 5px 10px 10px 10px orange inset; 
+}
+img{
+    width: 30%;
+    height: 30%;
+    border-style: solid;
+    border-color: rgb(111, 111, 11);
+    margin-top: 50px;
+
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+fieldset{
+    margin: 50px;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: rgb(111, 111, 11);
+     
+}
+legend{
+    color: aquamarine;
+    text-align: center;
+    text-decoration: double;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+p{
+    text-align: center;
+    color: red;
+}
+
